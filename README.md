@@ -1,7 +1,16 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+the fundamental concept of version control tools are to keep a historical record of software changes in a specialized database, logging edits made by individual developers. 
+ Github is a popular tool for When conflicts emerge, developers can look back and resolve code conflicts and minimizing disruption to the codebase and developers can collaborate in building a project, also one can trace who changed what in the system.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+In the upper-right corner of any page, select +, then click New repository.
+Type a short, memorable name for your repository. For example, "PLP ACADEMY".
+Optionally, add a description of your repository. For example, "Assignment day 2."
+Choose a repository visibility(public or private) if you wish to limit visibility one chooses private
+
+
+
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
